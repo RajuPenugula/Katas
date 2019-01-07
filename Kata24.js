@@ -46,4 +46,4 @@ describe('inside a class you can use the `static` keyword', () => {
 		});
 	});
 
-});
+__
